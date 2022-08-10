@@ -8,7 +8,7 @@ Additionally, I fixed the links in the nav bar and added accesible commenting to
 
 ### Links
 
-Deployed Site URL: 
+Deployed Site URL: [https://haleymay21.github.io/challenge1/]
 
 #### Screenshot
 
