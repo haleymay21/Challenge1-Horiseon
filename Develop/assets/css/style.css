@@ -1,0 +1,227 @@
+/* Sets the universal selector and selects all the elements on the page */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Sets background color of website */
+body {
+    background-color: #d9dcd6;
+}
+
+/* Sets size, font and color for header */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* Sets positioning and font size for header */
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Color change for middle of header */
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+
+/* Sets list style for links inside of header  */
+header ul {
+    list-style-type: none;
+}
+
+/* Sets positioning for links inside of header */
+header ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Sets color of text for links inside of header */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Sets font size for section descriptions in main and aside */
+p {
+    font-size: 16px;
+}
+
+/* Sets display and size of hero photo */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Sets positioning of search engine optimization and social media marketing images */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Sets positioning of online reputation management image */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Sets positioning and size of main */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Sets positioning, size, font, color of side column */
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* sets margin and font color of selected class */
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets margin and font color of selected class */
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets margin and font color of selected class */
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* sets margin and positioning of h3 within selected class */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets margin and positioning of h3 within selected class */
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets margin and positioning of h3 within selected class */
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* sets display, margin, max-width of icon within selected class */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* sets display, margin, max-width of icon within selected class */
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* sets display, margin, max-width of icon within selected class */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Sets positioning, size, font, coloring for selected class section */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Sets positioning, size, font, coloring for selected class section */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Sets positioning, size, font, coloring for selected class section */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Sets max-height for selected image */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* Sets max-height for selected image */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* Sets max-height for selected image */
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Sets margin and font-size for h2 within selected class */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Sets margin and font-size for h2 within selected class */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Sets margin and font-size for h2 within selected class */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Sets display, positioning, font of footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* Sets font-size of h4 within footer */
+footer h4 {
+    font-size: 20px;
+}
