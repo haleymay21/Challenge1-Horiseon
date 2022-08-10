@@ -12,10 +12,5 @@ Deployed Site URL:
 
 #### Screenshot
 
-<<<<<<< HEAD
 ![The updated HTML and CSS code did not change the look of the website.](./assets/images/website-with-fixed-code.png)
 
-=======
-![The updated HTML and CSS code did not change the look of the website.](./assets/website-with-fixed-code.png)
->>>>>>> ac8c8190e4efb573b961815daf6d3df6358240b3
-repo for challenge 1
